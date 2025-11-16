@@ -7,7 +7,7 @@ using namespace std;
 void BFS(int start, vector<vector<int>>& graph) {
     int n = graph.size();               // Number of nodes
     vector<bool> visited(n, false);     // To track visited nodes
-    queue<int> q;                       
+    queue<int> q;                       // Queue for BFS
 
     visited[start] = true;              
 
