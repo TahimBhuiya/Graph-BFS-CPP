@@ -7,7 +7,7 @@ using namespace std;
 void BFS(int start, vector<vector<int>>& graph) {
     int n = graph.size();               
     vector<bool> visited(n, false);     
-                          
+    queue<int> q;                       
 
                  
 
