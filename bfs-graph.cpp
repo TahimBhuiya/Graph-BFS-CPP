@@ -6,7 +6,7 @@ using namespace std;
 // Function to perform BFS starting from a given node
 void BFS(int start, vector<vector<int>>& graph) {
     int n = graph.size();               
-        
+    vector<bool> visited(n, false);     
                           
 
                  
