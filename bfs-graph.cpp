@@ -9,7 +9,7 @@ void BFS(int start, vector<vector<int>>& graph) {
     vector<bool> visited(n, false);     
     queue<int> q;                       
 
-                 
+    visited[start] = true;              
 
 
 
