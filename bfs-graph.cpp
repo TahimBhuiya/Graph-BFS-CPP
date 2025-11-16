@@ -9,7 +9,7 @@ void BFS(int start, vector<vector<int>>& graph) {
     vector<bool> visited(n, false);     // To track visited nodes
     queue<int> q;                       // Queue for BFS
 
-    visited[start] = true;              
+    visited[start] = true;              // Mark the start node
 
 
 
