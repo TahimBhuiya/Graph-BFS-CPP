@@ -10,7 +10,7 @@ void BFS(int start, vector<vector<int>>& graph) {
     queue<int> q;                       // Queue for BFS
 
     visited[start] = true;              // Mark the start node
-    q.push(start);                      
+    q.push(start);                      // Push start node into queue
 
     
 
