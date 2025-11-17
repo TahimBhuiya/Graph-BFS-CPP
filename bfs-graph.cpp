@@ -15,7 +15,7 @@ void BFS(int start, vector<vector<int>>& graph) {
     cout << "BFS Traversal starting from node " << start << ": ";
 
     while (!q.empty()) {
-        int node = q.front();           
+        int node = q.front();           // Front of queue
         q.pop();                        
     }
 
