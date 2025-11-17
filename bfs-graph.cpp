@@ -14,7 +14,10 @@ void BFS(int start, vector<vector<int>>& graph) {
 
     cout << "BFS Traversal starting from node " << start << ": ";
 
-    
+    while (!q.empty()) {
+                 
+                                
+    }
 
 
 
