@@ -16,7 +16,7 @@ void BFS(int start, vector<vector<int>>& graph) {
 
     while (!q.empty()) {
         int node = q.front();           
-                                
+        q.pop();                        
     }
 
 
