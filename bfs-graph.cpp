@@ -12,7 +12,7 @@ void BFS(int start, vector<vector<int>>& graph) {
     visited[start] = true;              // Mark the start node
     q.push(start);                      // Push start node into queue
 
-    
+    cout << "BFS Traversal starting from node " << start << ": ";
 
     
 
