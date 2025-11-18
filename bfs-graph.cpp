@@ -17,7 +17,7 @@ void BFS(int start, vector<vector<int>>& graph) {
     while (!q.empty()) {
         int node = q.front();           // Get front node
         q.pop();                        // Remove it
-        cout << node << " ";            
+        cout << node << " ";            // Visit the node
 
         
         
