@@ -20,7 +20,9 @@ void BFS(int start, vector<vector<int>>& graph) {
         cout << node << " ";            // Visit the node
 
         // Traverse all neighbors
-        
+        for (int neighbor : graph[node]) {
+            
+        }
     }
 
     cout << endl;
