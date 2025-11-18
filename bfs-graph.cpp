@@ -23,7 +23,7 @@ void BFS(int start, vector<vector<int>>& graph) {
         for (int neighbor : graph[node]) {
             if (!visited[neighbor]) {   // Visit only if unvisited
                 visited[neighbor] = true;
-                      
+                q.push(neighbor);       
             }
         }
     }
