@@ -21,7 +21,10 @@ void BFS(int start, vector<vector<int>>& graph) {
 
         // Traverse all neighbors
         for (int neighbor : graph[node]) {
-            
+            if (!visited[neighbor]) {   
+                
+                      
+            }
         }
     }
 
