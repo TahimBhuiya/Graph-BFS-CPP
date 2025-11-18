@@ -5,20 +5,23 @@ using namespace std;
 
 // Function to perform BFS starting from a given node
 void BFS(int start, vector<vector<int>>& graph) {
-    int n = graph.size();               // Number of nodes
-    vector<bool> visited(n, false);     // To track visited nodes
+    int n = graph.size();               // Number of nodes in the graph
+    vector<bool> visited(n, false);     // Keeps track of visited nodes
     queue<int> q;                       // Queue for BFS
 
-    visited[start] = true;              // Mark the start node
-    q.push(start);                      // Push start node into queue
+    visited[start] = true;              // Mark start as visited
+    q.push(start);                      // Add start to the queue
 
     cout << "BFS Traversal starting from node " << start << ": ";
 
     while (!q.empty()) {
-        int node = q.front();           // Front of queue
+        int node = q.front();           // Get front node
         q.pop();                        // Remove it
+        cout << node << " ";            
+
+        
+        
     }
 
-
-
+    cout << endl;
 }
