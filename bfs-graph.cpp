@@ -19,7 +19,7 @@ void BFS(int start, vector<vector<int>>& graph) {
         q.pop();                        // Remove it
         cout << node << " ";            // Visit the node
 
-        
+        // Traverse all neighbors
         
     }
 
