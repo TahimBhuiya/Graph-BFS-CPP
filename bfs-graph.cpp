@@ -37,7 +37,7 @@ int main() {
     vector<vector<int>> graph = {
         {1, 2},      
         {0, 3, 4},   
-        
+        {0, 4},
     
     
     
