@@ -34,3 +34,12 @@ void BFS(int start, vector<vector<int>>& graph) {
 
 int main() {
     
+    vector<vector<int>> graph = {
+             
+           
+        
+    
+    
+    
+    
+    }}
