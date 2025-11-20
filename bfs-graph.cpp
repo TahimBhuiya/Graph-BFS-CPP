@@ -35,7 +35,7 @@ void BFS(int start, vector<vector<int>>& graph) {
 int main() {
     // Example graph with 6 nodes
     vector<vector<int>> graph = {
-        {1, 2},      
+        {1, 2},      // Node 0
         {0, 3, 4},   
         {0, 4},
     
