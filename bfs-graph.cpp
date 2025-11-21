@@ -43,7 +43,9 @@ int main() {
         {3, 4}       // Node 5
     };
 
-    BFS(0, graph);
+    BFS(0, graph);  // Start BFS at node 0
+
+    
     
     
     
