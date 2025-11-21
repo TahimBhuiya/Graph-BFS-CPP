@@ -45,7 +45,7 @@ int main() {
 
     BFS(0, graph);  // Start BFS at node 0
 
-    
+    return 0;
     
     
     
