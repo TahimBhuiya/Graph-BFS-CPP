@@ -31,7 +31,6 @@ void BFS(int start, vector<vector<int>>& graph) {
     cout << endl;
 }
 
-
 int main() {
     // Example graph (6 nodes)
     vector<vector<int>> graph = {
