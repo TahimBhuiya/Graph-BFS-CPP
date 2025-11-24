@@ -12,3 +12,7 @@ Steps BFS follows:
 4. Ensures the shortest path (in edges) in unweighted graphs.
 
 It prints the BFS traversal order starting from node `0`.
+
+---
+
+## 🔧 Features
