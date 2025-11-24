@@ -7,3 +7,4 @@ This C++ program demonstrates the **Breadth-First Search (BFS)** algorithm, a fu
 Steps BFS follows:
 
 1. Starts from a chosen source node.
+2. Visits all immediate neighbors first.
