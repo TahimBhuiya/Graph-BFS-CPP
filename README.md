@@ -9,3 +9,4 @@ Steps BFS follows:
 1. Starts from a chosen source node.
 2. Visits all immediate neighbors first.
 3. Moves outward layer by layer.
+4. Ensures the shortest path (in edges) in unweighted graphs.
