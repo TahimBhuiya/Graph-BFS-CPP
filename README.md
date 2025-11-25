@@ -19,3 +19,4 @@ It prints the BFS traversal order starting from node `0`.
 
 - **Queue-Based Traversal** (FIFO order)
 - **Level-by-Level Exploration**
+- **Shortest Path for Unweighted Graphs**
