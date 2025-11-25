@@ -43,3 +43,7 @@ It prints the BFS traversal order starting from node `0`.
 ```
 BFS Traversal starting from node 0: 0 1 2 3 4 5
 ```
+
+---
+
+## ⚙ How It Works
