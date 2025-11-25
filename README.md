@@ -18,3 +18,4 @@ It prints the BFS traversal order starting from node `0`.
 ## 🔧 Features
 
 - **Queue-Based Traversal** (FIFO order)
+- **Level-by-Level Exploration**
