@@ -26,3 +26,9 @@ It prints the BFS traversal order starting from node `0`.
 ---
 
 ## 📋 Example Run
+
+**Graph Structure:**
+
+```
+
+```
