@@ -34,6 +34,6 @@ It prints the BFS traversal order starting from node `0`.
 1: 0, 3, 4
 2: 0, 4
 3: 1, 5
-
+4: 1, 2, 5
 
 ```
