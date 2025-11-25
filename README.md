@@ -30,5 +30,5 @@ It prints the BFS traversal order starting from node `0`.
 **Graph Structure:**
 
 ```
-
+0: 1, 2
 ```
