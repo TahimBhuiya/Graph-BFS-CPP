@@ -49,3 +49,4 @@ BFS Traversal starting from node 0: 0 1 2 3 4 5
 ## ⚙ How It Works
 
 1. **Initialize a Queue**
+   - Mark the starting node as visited.
