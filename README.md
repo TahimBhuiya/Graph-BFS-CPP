@@ -54,6 +54,9 @@ BFS Traversal starting from node 0: 0 1 2 3 4 5
    - Enqueue the starting node.
 
 2. **Process Each Node**
+
    - Dequeue a node.
    - Print/visit it.
    - Enqueue all unvisited neighbors.
+
+3. **Repeat Until Queue Is Empty**
