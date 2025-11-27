@@ -63,3 +63,5 @@ BFS Traversal starting from node 0: 0 1 2 3 4 5
    - BFS continues until all reachable nodes are visited.
 
 ---
+
+## 🛠 How to Run
