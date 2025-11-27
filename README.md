@@ -71,6 +71,6 @@ BFS Traversal starting from node 0: 0 1 2 3 4 5
 Save the code as `bfs-graph.cpp` and then compile/run:
 
 ```bash
-
+g++ bfs-graph.cpp -o bfs
 
 ```
