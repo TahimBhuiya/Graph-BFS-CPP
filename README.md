@@ -67,3 +67,5 @@ BFS Traversal starting from node 0: 0 1 2 3 4 5
 ## 🛠 How to Run
 
 ### 1️⃣ Using a local C++ compiler
+
+Save the code as `bfs-graph.cpp` and then compile/run:
