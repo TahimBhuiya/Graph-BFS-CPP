@@ -72,5 +72,5 @@ Save the code as `bfs-graph.cpp` and then compile/run:
 
 ```bash
 g++ bfs-graph.cpp -o bfs
-
+./bfs
 ```
