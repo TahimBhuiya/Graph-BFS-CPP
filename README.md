@@ -60,3 +60,6 @@ BFS Traversal starting from node 0: 0 1 2 3 4 5
    - Enqueue all unvisited neighbors.
 
 3. **Repeat Until Queue Is Empty**
+   - BFS continues until all reachable nodes are visited.
+
+---
